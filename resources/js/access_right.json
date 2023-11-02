@@ -1,0 +1,15 @@
+
+[
+    {
+        "value": "1",
+        "label": "All data of the organizational element including all subordinates for whom the user is registered as responsible."
+    },
+    {
+        "value": "2",
+        "label": "To all data of all organizational elements on the same level, therefore including peer data and all subordinates for whom the user is recorded as responsible."
+    },
+    {
+        "value": "3",
+        "label":"Custom"
+    }
+]
